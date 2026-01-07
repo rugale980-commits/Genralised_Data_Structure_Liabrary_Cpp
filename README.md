@@ -13,14 +13,13 @@ The project is designed following **Data Structures and Algorithms (DSA)** stand
 ---
 
 ## 🧩 Data Structures Implemented
-|-----------------------------|----------------|---------------------|---------|
+
 |        Type                 | Node Class     | Functionality Class | Status  |
 |-----------------------------|----------------|---------------------|---------|
 | Singly Linear Linked List   | `SinglyLLLnode` |  `SinglyLLL`      | ✅ Done |
 | Singly Circular Linked List | `SinglyCLLnode` | ` SinglyCLL`      | ✅ Done |
 | Doubly Linear Linked List   | `DoublyLLLnode` |  `DoublyLLL`      | ✅ Done |
 | Doubly Circular Linked List | `DoublyCLLnode` |  `DoublyCLL`      | ✅ Done |
-|------------------------------------------------------------------------------|
 
 ## ⚙️ Features
 - Generic programming using **C++ templates**
